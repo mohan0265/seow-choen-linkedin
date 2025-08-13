@@ -1,8 +1,8 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Dr. Francis Seow‑Choen | Profile Mock",
-  description: "High-fidelity LinkedIn-style mock profile for Prof. Francis Seow‑Choen",
+  title: "Dr. Francis Seow Choen | Profile Mock",
+  description: "High-fidelity LinkedIn-style mock profile for Dr. Francis Seow Choen",
 };
 
 export default function RootLayout({ children }: { children: React.ReactNode }) {

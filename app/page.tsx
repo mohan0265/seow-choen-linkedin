@@ -94,7 +94,7 @@ export default function LinkedInProfile() {
                 <div className="absolute inset-0 bg-black/35" />
                 <div className="absolute bottom-4 right-4 z-10">
                   <div className="bg-white/90 backdrop-blur-sm rounded-lg px-4 py-2">
-                    <div className="text-lg font-bold text-gray-800">Seow‑Choen Colorectal Centre</div>
+                    <div className="text-lg font-bold text-gray-800">Seow-Choen Colorectal Centre</div>
                     <div className="text-sm text-gray-600">Excellence in Colorectal Care</div>
                   </div>
                 </div>
@@ -108,7 +108,7 @@ export default function LinkedInProfile() {
                   <div className="w-32 h-32 rounded-full border-4 border-white bg-white overflow-hidden shadow-lg">
                     <Image
                       src="/images/francis-seow.jpg"
-                      alt="Prof. Francis Seow‑Choen"
+                      alt="Dr. Francis Seow Choen"
                       width={128}
                       height={128}
                       className="w-full h-full object-cover"
@@ -118,11 +118,11 @@ export default function LinkedInProfile() {
 
                 <div className="space-y-2">
                   <div className="flex items-center space-x-2">
-                    <h1 className="text-2xl font-semibold text-gray-900">Prof. Francis Seow‑Choen MBBS, FRCS, FAMS, FRES</h1>
+                    <h1 className="text-2xl font-semibold text-gray-900">Dr. Francis Seow Choen MBBS, FRCS, FAMS, FRES</h1>
                     <Verified className="w-5 h-5 text-blue-600" />
                   </div>
                   <p className="text-lg text-gray-700">
-                    Medical Director & Senior Consultant, Seow‑Choen Colorectal Centre | International Colorectal Surgery Pioneer | FRES | Wildlife Photographer
+                    Medical Director & Senior Consultant, Seow-Choen Colorectal Centre | International Colorectal Surgery Pioneer | FRES | Wildlife Photographer
                   </p>
                   <div className="flex items-center text-gray-600">
                     <MapPin className="w-4 h-4 mr-1" />
@@ -144,7 +144,7 @@ export default function LinkedInProfile() {
             <SectionCard className="p-6">
               <h3 className="text-lg font-semibold text-gray-900 mb-2">About</h3>
               <p className="text-gray-700 leading-7">
-                I am Prof. Francis Seow‑Choen, Medical Director and Senior Consultant specialising in colorectal surgery at Seow‑Choen Colorectal Centre, and former Head of the
+                I am Dr. Francis Seow Choen, Medical Director and Senior Consultant specialising in colorectal surgery at Seow-Choen Colorectal Centre, and former Head of the
                 Colorectal Surgery Department at Singapore General Hospital.
                 <br /><br />
                 Over the past three decades, I have pioneered minimally invasive colorectal surgery in Asia, trained hundreds of surgeons worldwide, and published over
@@ -169,7 +169,7 @@ export default function LinkedInProfile() {
               <div className="grid sm:grid-cols-3 gap-4">
                 {[
                   {
-                    title: "Seow‑Choen Colorectal Centre profile",
+                    title: "Seow-Choen Colorectal Centre profile",
                     href: "https://www.colorectalcentre.com/eng/profile/about-prof-seow.html",
                   },
                   {
@@ -210,7 +210,7 @@ export default function LinkedInProfile() {
               <div className="space-y-6">
                 <div>
                   <h4 className="font-semibold text-gray-900">Medical Director & Senior Consultant</h4>
-                  <p className="text-sm text-gray-600">Seow‑Choen Colorectal Centre · Singapore</p>
+                  <p className="text-sm text-gray-600">Seow-Choen Colorectal Centre · Singapore</p>
                   <ul className="list-disc pl-5 mt-2 text-gray-700 text-sm space-y-1">
                     <li>Founded Singapore's first dedicated colorectal unit</li>
                     <li>Leads advanced laparoscopic and robotic procedures</li>
@@ -303,7 +303,7 @@ export default function LinkedInProfile() {
                 <h4 className="font-medium text-gray-900">Public profile & URL</h4>
                 <Edit3 className="w-4 h-4 text-gray-600" />
               </div>
-              <p className="text-sm text-gray-600">www.linkedin.com/in/prof-francis-seow-choen</p>
+              <p className="text-sm text-gray-600">www.linkedin.com/in/dr-francis-seow-choen</p>
             </SectionCard>
 
             <SectionCard className="p-4">
@@ -337,7 +337,7 @@ export default function LinkedInProfile() {
                   <Users className="w-4 h-4 text-blue-600" />
                 </div>
                 <div>
-                  <h4 className="font-medium text-gray-900 text-sm">Follow Prof. Seow‑Choen</h4>
+                  <h4 className="font-medium text-gray-900 text-sm">Follow Dr. Seow Choen</h4>
                   <p className="text-xs text-gray-600">Updates on surgery & wildlife</p>
                 </div>
               </div>
