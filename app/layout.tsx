@@ -1,7 +1,7 @@
 import "./globals.css";
 
 export const metadata = {
-  title: "Prof. Francis Seow‑Choen | Profile Mock",
+  title: "Dr. Francis Seow‑Choen | Profile Mock",
   description: "High-fidelity LinkedIn-style mock profile for Prof. Francis Seow‑Choen",
 };
 
